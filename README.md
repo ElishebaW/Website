@@ -9,5 +9,5 @@ beginner Git tutorial in the history of the Universe. You should totally [check 
 After finishing *Learn Enough^tm Git to Be Dangerous*, you'll know enough Git to 
 be *dangerous*. This means you'll beable to use Git to track changes in your projects,
 back up data, share your work with others, and collaborate with programmers an other users of Git. 
-
+https://www.learnenough.com/git-tutorial#code-official_git_documentation
 
